@@ -39,8 +39,8 @@ This repository contains my personal preparation for the 42 Exam Rank 02.
 | ft_strspn | ✅ |
 | ft_strpbrk | ✅ |
 | ft_strrev | ✅ |
-| inter | ⏳ |
-| last_word | ⏳ |
+| inter | ✅ |
+| last_word | ✅ |
 | ft_is_power_2 | ⏳ |
 | max | ⏳ |
 | print_bits | ⏳ |
