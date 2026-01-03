@@ -3,8 +3,8 @@
 This repository contains my personal preparation for the 42 Exam Rank 02.
 
 ## Progress Overview
-- **Level 1** 🔄 
-- **Level 2** ⏳ 
+- **Level 1** ✅
+- **Level 2** 🔄 
 - **Level 3** ⏳
 - **Level 4** ⏳
 
@@ -14,17 +14,17 @@ This repository contains my personal preparation for the 42 Exam Rank 02.
 | Function | Status |
 |----------|--------|
 | first_word | ✅ |
-| fizz_buzz | ⏳ |
-| ft_pustr | ⏳ |
-| ft_strcpy | ⏳ |
-| ft_strlen | ⏳ | 
-| ft_swap   | ⏳ |
-| repeat_alpha | ⏳ |
-| rev_print | ⏳ |
-| rot_13 | ⏳ | 
-| rotone | ⏳ |
-| search_and_replace | ⏳ |
-| ulstr | ⏳ |
+| fizz_buzz | ✅ |
+| ft_pustr | ✅ |
+| ft_strcpy | ✅ |
+| ft_strlen | ✅ | 
+| ft_swap   | ✅ |
+| repeat_alpha | ✅ |
+| rev_print | ✅ |
+| rot_13 | ✅ | 
+| rotone | ✅ |
+| search_and_replace | ✅ |
+| ulstr | ✅ |
 
 ---
 
