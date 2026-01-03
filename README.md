@@ -31,14 +31,14 @@ This repository contains my personal preparation for the 42 Exam Rank 02.
 ## Level 2
 | Function | Status |
 |----------|--------|
-| alpha_mirror | ⏳ |
-| camel_to_snake | ⏳ |
-| do_op | ⏳ |
-| ft_atoi | ⏳ |
-| ft_strcmp | ⏳ |
-| ft_strspn | ⏳ |
-| ft_strpbrk | ⏳ |
-| ft_strrev | ⏳ |
+| alpha_mirror | ✅ |
+| camel_to_snake | ✅ |
+| do_op | ✅ |
+| ft_atoi | ✅ |
+| ft_strcmp | ✅ |
+| ft_strspn | ✅ |
+| ft_strpbrk | ✅ |
+| ft_strrev | ✅ |
 | inter | ⏳ |
 | last_word | ⏳ |
 | ft_is_power_2 | ⏳ |
