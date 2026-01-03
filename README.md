@@ -13,7 +13,7 @@ This repository contains my personal preparation for the 42 Exam Rank 02.
 ## Level 1
 | Function | Status |
 |----------|--------|
-| first_word | ⏳ |
+| first_word | ✅ |
 | fizz_buzz | ⏳ |
 | ft_pustr | ⏳ |
 | ft_strcpy | ⏳ |
