@@ -4,8 +4,8 @@ This repository contains my personal preparation for the 42 Exam Rank 02.
 
 ## Progress Overview
 - **Level 1** ✅
-- **Level 2** 🔄 
-- **Level 3** ⏳
+- **Level 2** ✅
+- **Level 3** 🔄
 - **Level 4** ⏳
 
 ---
@@ -41,14 +41,14 @@ This repository contains my personal preparation for the 42 Exam Rank 02.
 | ft_strrev | ✅ |
 | inter | ✅ |
 | last_word | ✅ |
-| ft_is_power_2 | ⏳ |
-| max | ⏳ |
-| print_bits | ⏳ |
-| reverse_bits | ⏳ |
-| wdmatch | ⏳ |
-| swap_bits | ⏳ |
-| union | ⏳ | 
-| snake_to_camel | ⏳ |
+| ft_is_power_2 | ✅ |
+| max | ✅ |
+| print_bits | ✅ |
+| reverse_bits | ✅ |
+| wdmatch | ✅ |
+| swap_bits | ✅ |
+| union | ✅ | 
+| snake_to_camel | ✅ |
 ---
 
 ## Level 3
