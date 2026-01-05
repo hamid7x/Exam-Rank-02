@@ -54,11 +54,11 @@ This repository contains my personal preparation for the 42 Exam Rank 02.
 ## Level 3
 | Function | Status |
 |----------|--------|
-| add_prime_sum | ⏳ |
-| epur_str | ⏳ |
-| expand_str | ⏳ |
-| ft_atoi_base | ⏳ |
-| ft_list_size | ⏳ |
+| add_prime_sum | ✅ |
+| epur_str | ✅ |
+| expand_str | ✅ |
+| ft_atoi_base | ✅ |
+| ft_list_size | ✅ |
 | ft_range | ⏳ |
 | ft_rrange | ⏳ |
 | hidenp | ⏳ |
