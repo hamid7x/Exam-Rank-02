@@ -75,13 +75,13 @@ This repository contains my personal preparation for the 42 Exam Rank 02.
 ## Level 4
 | Function | Status |
 |----------|--------|
-| flood_fil | ⏳ |
-| fprime | ⏳ |
+| flood_fil | ✅ |
+| fprime | ✅ |
 | ft_split | ⏳ |
-| ft_itoa | ⏳ |
-| ft_list_foreach | ⏳ |
+| ft_itoa | ✅ |
+| ft_list_foreach | ✅ |
 | ft_list_remove | ⏳ |
-| rev_wstr | ⏳ |
+| rev_wstr | ✅ |
 | rotstring | ⏳ |
 | sort_int_tab | ⏳ |
 | sort_list | ⏳ |
