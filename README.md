@@ -5,8 +5,8 @@ This repository contains my personal preparation for the 42 Exam Rank 02.
 ## Progress Overview
 - **Level 1** ✅
 - **Level 2** ✅
-- **Level 3** 🔄
-- **Level 4** ⏳
+- **Level 3** ✅
+- **Level 4** 🔄
 
 ---
 
@@ -59,16 +59,16 @@ This repository contains my personal preparation for the 42 Exam Rank 02.
 | expand_str | ✅ |
 | ft_atoi_base | ✅ |
 | ft_list_size | ✅ |
-| ft_range | ⏳ |
-| ft_rrange | ⏳ |
-| hidenp | ⏳ |
-| lcm | ⏳ |
-| paramsum | ⏳ |
-| pgcd | ⏳ |
-| print_hex | ⏳ |
-| rstr_capitalizer | ⏳ |
-| str_capitalizer | ⏳ |
-| tab_mult | ⏳ |
+| ft_range | ✅ |
+| ft_rrange | ✅ |
+| hidenp | ✅ |
+| lcm | ✅ |
+| paramsum | ✅ |
+| pgcd | ✅ |
+| print_hex | ✅ |
+| rstr_capitalizer | ✅ |
+| str_capitalizer | ✅ |
+| tab_mult | ✅ |
 
 ---
 
