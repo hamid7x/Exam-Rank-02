@@ -80,11 +80,11 @@ This repository contains my personal preparation for the 42 Exam Rank 02.
 | ft_split | ⏳ |
 | ft_itoa | ✅ |
 | ft_list_foreach | ✅ |
-| ft_list_remove | ⏳ |
+| ft_list_remove | ✅ |
 | rev_wstr | ✅ |
-| rotstring | ⏳ |
-| sort_int_tab | ⏳ |
-| sort_list | ⏳ |
+| rotstring | ✅ |
+| sort_int_tab | ✅ |
+| sort_list | ✅ |
  
 ---
 
