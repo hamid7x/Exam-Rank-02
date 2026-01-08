@@ -2,6 +2,11 @@
 
 This repository contains my personal preparation for the 42 Exam Rank 02.
 
+## Exam Result
+📅 8 January 2026
+🏆 **Score: 100 / 100**  
+✅ **Status: PASSED**
+
 ## Progress Overview
 - **Level 1** ✅
 - **Level 2** ✅
@@ -77,7 +82,7 @@ This repository contains my personal preparation for the 42 Exam Rank 02.
 |----------|--------|
 | flood_fil | ✅ |
 | fprime | ✅ |
-| ft_split | ⏳ |
+| ft_split | ✅ |
 | ft_itoa | ✅ |
 | ft_list_foreach | ✅ |
 | ft_list_remove | ✅ |
