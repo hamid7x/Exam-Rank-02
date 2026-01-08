@@ -3,7 +3,7 @@
 This repository contains my personal preparation for the 42 Exam Rank 02.
 
 ## Exam Result
-📅 8 January 2026
+📅 8 January 2026.
 🏆 **Score: 100 / 100**  
 ✅ **Status: PASSED**
 
@@ -11,7 +11,7 @@ This repository contains my personal preparation for the 42 Exam Rank 02.
 - **Level 1** ✅
 - **Level 2** ✅
 - **Level 3** ✅
-- **Level 4** 🔄
+- **Level 4** ✅
 
 ---
 
